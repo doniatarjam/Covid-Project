@@ -1,0 +1,485 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2042,39.1363 ]
+    },
+    "properties": {
+    "county":"Montgomery",
+    "county_fips":24031,
+    "population":1043530,
+    "first_dose":29264,
+    "second_dose":26478,
+    "per_first_dose":41.559,
+    "per_second_dose":37.602,
+    "single_dose":3304,
+    "per_single_dose":4.692,
+    "fully_vaccinated":29782,
+    "per_fully_vaccinated":42.294
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.8473,38.8295 ]
+    },
+    "properties": {
+    "county":"Prince George's",
+    "county_fips":24033,
+    "population":908670,
+    "first_dose":341781,
+    "second_dose":313873,
+    "per_first_dose":59.006,
+    "per_second_dose":54.188,
+    "single_dose":24137,
+    "per_single_dose":4.167,
+    "fully_vaccinated":338010,
+    "per_fully_vaccinated":58.355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6393,39.4627 ]
+    },
+    "properties": {
+    "county":"Baltimore",
+    "county_fips":24005,
+    "population":828018,
+    "first_dose":491576,
+    "second_dose":450885,
+    "per_first_dose":59.414,
+    "per_second_dose":54.496,
+    "single_dose":36152,
+    "per_single_dose":4.37,
+    "fully_vaccinated":487037,
+    "per_fully_vaccinated":58.866
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6144,39.3051 ]
+    },
+    "properties": {
+    "county":"Baltimore City",
+    "county_fips":24510,
+    "population":609032,
+    "first_dose":315272,
+    "second_dose":279841,
+    "per_first_dose":53.122,
+    "per_second_dose":47.152,
+    "single_dose":20366,
+    "per_single_dose":3.432,
+    "fully_vaccinated":300207,
+    "per_fully_vaccinated":50.583
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6051,39.0065 ]
+    },
+    "properties": {
+    "county":"Anne Arundel",
+    "county_fips":24003,
+    "population":571275,
+    "first_dose":51516,
+    "second_dose":47075,
+    "per_first_dose":55.678,
+    "per_second_dose":50.878,
+    "single_dose":3751,
+    "per_single_dose":4.054,
+    "fully_vaccinated":50826,
+    "per_fully_vaccinated":54.932
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9312,39.2507 ]
+    },
+    "properties": {
+    "county":"Howard",
+    "county_fips":24027,
+    "population":318855,
+    "first_dose":13866,
+    "second_dose":12498,
+    "per_first_dose":41.508,
+    "per_second_dose":37.412,
+    "single_dose":3073,
+    "per_single_dose":9.199,
+    "fully_vaccinated":15571,
+    "per_fully_vaccinated":46.611
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.3171,39.5611 ]
+    },
+    "properties": {
+    "county":"Harford",
+    "county_fips":24025,
+    "population":252222,
+    "first_dose":97336,
+    "second_dose":90411,
+    "per_first_dose":57.784,
+    "per_second_dose":53.673,
+    "single_dose":9791,
+    "per_single_dose":5.813,
+    "fully_vaccinated":100202,
+    "per_fully_vaccinated":59.486
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.398,39.4722 ]
+    },
+    "properties": {
+    "county":"Frederick",
+    "county_fips":24021,
+    "population":251422,
+    "first_dose":45645,
+    "second_dose":41274,
+    "per_first_dose":44.378,
+    "per_second_dose":40.128,
+    "single_dose":3592,
+    "per_single_dose":3.492,
+    "fully_vaccinated":44866,
+    "per_fully_vaccinated":43.621
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0225,39.5629 ]
+    },
+    "properties": {
+    "county":"Carroll",
+    "county_fips":24013,
+    "population":167699,
+    "first_dose":85514,
+    "second_dose":76967,
+    "per_first_dose":52.38,
+    "per_second_dose":47.145,
+    "single_dose":5221,
+    "per_single_dose":3.198,
+    "fully_vaccinated":82188,
+    "per_fully_vaccinated":50.343
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9922,38.5073 ]
+    },
+    "properties": {
+    "county":"Charles",
+    "county_fips":24017,
+    "population":159428,
+    "first_dose":14817,
+    "second_dose":13177,
+    "per_first_dose":46.406,
+    "per_second_dose":41.27,
+    "single_dose":2228,
+    "per_single_dose":6.978,
+    "fully_vaccinated":15405,
+    "per_fully_vaccinated":48.248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.814,39.6036 ]
+    },
+    "properties": {
+    "county":"Washington",
+    "county_fips":24043,
+    "population":150109,
+    "first_dose":152904,
+    "second_dose":141225,
+    "per_first_dose":58.912,
+    "per_second_dose":54.412,
+    "single_dose":16646,
+    "per_single_dose":6.413,
+    "fully_vaccinated":157871,
+    "per_fully_vaccinated":60.826
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6058,38.3024 ]
+    },
+    "properties": {
+    "county":"St. Mary's",
+    "county_fips":24037,
+    "population":112290,
+    "first_dose":11450,
+    "second_dose":10412,
+    "per_first_dose":39.464,
+    "per_second_dose":35.886,
+    "single_dose":917,
+    "per_single_dose":3.161,
+    "fully_vaccinated":11329,
+    "per_fully_vaccinated":39.047
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9407,39.5712 ]
+    },
+    "properties": {
+    "county":"Cecil",
+    "county_fips":24015,
+    "population":102552,
+    "first_dose":141722,
+    "second_dose":130715,
+    "per_first_dose":55.481,
+    "per_second_dose":51.172,
+    "single_dose":13001,
+    "per_single_dose":5.09,
+    "fully_vaccinated":143716,
+    "per_fully_vaccinated":56.262
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6208,38.3733 ]
+    },
+    "properties": {
+    "county":"Wicomico",
+    "county_fips":24045,
+    "population":102539,
+    "first_dose":228194,
+    "second_dose":213632,
+    "per_first_dose":70.065,
+    "per_second_dose":65.594,
+    "single_dose":14188,
+    "per_single_dose":4.356,
+    "fully_vaccinated":227820,
+    "per_fully_vaccinated":69.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5687,38.5434 ]
+    },
+    "properties": {
+    "county":"Calvert",
+    "county_fips":24009,
+    "population":91511,
+    "first_dose":11083,
+    "second_dose":10143,
+    "per_first_dose":57.064,
+    "per_second_dose":52.224,
+    "single_dose":929,
+    "per_single_dose":4.783,
+    "fully_vaccinated":11072,
+    "per_fully_vaccinated":57.008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6976,39.6215 ]
+    },
+    "properties": {
+    "county":"Allegany",
+    "county_fips":24001,
+    "population":71445,
+    "first_dose":712166,
+    "second_dose":654756,
+    "per_first_dose":67.781,
+    "per_second_dose":62.317,
+    "single_dose":46237,
+    "per_single_dose":4.401,
+    "fully_vaccinated":700993,
+    "per_fully_vaccinated":66.718
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.334,38.2128 ]
+    },
+    "properties": {
+    "county":"Worcester",
+    "county_fips":24047,
+    "population":51765,
+    "first_dose":489505,
+    "second_dose":432283,
+    "per_first_dose":53.832,
+    "per_second_dose":47.539,
+    "single_dose":29739,
+    "per_single_dose":3.27,
+    "fully_vaccinated":462022,
+    "per_fully_vaccinated":50.809
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0203,39.068 ]
+    },
+    "properties": {
+    "county":"Queen Anne's",
+    "county_fips":24035,
+    "population":49632,
+    "first_dose":27387,
+    "second_dose":25187,
+    "per_first_dose":54.36,
+    "per_second_dose":49.993,
+    "single_dose":2543,
+    "per_single_dose":5.048,
+    "fully_vaccinated":27730,
+    "per_fully_vaccinated":55.041
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0971,38.7713 ]
+    },
+    "properties": {
+    "county":"Talbot",
+    "county_fips":24041,
+    "population":37167,
+    "first_dose":10434,
+    "second_dose":9058,
+    "per_first_dose":40.732,
+    "per_second_dose":35.361,
+    "single_dose":1058,
+    "per_single_dose":4.13,
+    "fully_vaccinated":10116,
+    "per_fully_vaccinated":39.491
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.8316,38.8717 ]
+    },
+    "properties": {
+    "county":"Caroline",
+    "county_fips":24011,
+    "population":33049,
+    "first_dose":56525,
+    "second_dose":51974,
+    "per_first_dose":49.797,
+    "per_second_dose":45.788,
+    "single_dose":3461,
+    "per_single_dose":3.049,
+    "fully_vaccinated":55435,
+    "per_fully_vaccinated":48.837
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0125,38.4829 ]
+    },
+    "properties": {
+    "county":"Dorchester",
+    "county_fips":24019,
+    "population":32138,
+    "first_dose":21959,
+    "second_dose":20154,
+    "per_first_dose":59.06,
+    "per_second_dose":54.205,
+    "single_dose":2959,
+    "per_single_dose":7.958,
+    "fully_vaccinated":23113,
+    "per_fully_vaccinated":62.163
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2729,39.5289 ]
+    },
+    "properties": {
+    "county":"Garrett",
+    "county_fips":24023,
+    "population":29235,
+    "first_dose":63572,
+    "second_dose":57572,
+    "per_first_dose":42.087,
+    "per_second_dose":38.115,
+    "single_dose":10966,
+    "per_single_dose":7.26,
+    "fully_vaccinated":68538,
+    "per_fully_vaccinated":45.375
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7518,38.1158 ]
+    },
+    "properties": {
+    "county":"Somerset",
+    "county_fips":24039,
+    "population":25729,
+    "first_dose":46675,
+    "second_dose":42007,
+    "per_first_dose":45.049,
+    "per_second_dose":40.544,
+    "single_dose":4041,
+    "per_single_dose":3.9,
+    "fully_vaccinated":46048,
+    "per_fully_vaccinated":44.444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0399,39.2545 ]
+    },
+    "properties": {
+    "county":"Kent",
+    "county_fips":24029,
+    "population":19536,
+    "first_dose":30779,
+    "second_dose":27946,
+    "per_first_dose":58.878,
+    "per_second_dose":53.459,
+    "single_dose":2562,
+    "per_single_dose":4.901,
+    "fully_vaccinated":30508,
+    "per_fully_vaccinated":58.359
+    }
+  }
+]
+}
