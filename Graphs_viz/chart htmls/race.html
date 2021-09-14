@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<body>
+
+<canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+<script>
+
+var xValues = ["African-American", "Asian", "White", "American Indian", "Native Hawaiian", "Other Races", "Undefined"];
+var yValues = [886246, 265266, 1922682, 27293, 9012, 294730, 301005];
+var barColors = ["red", "green","blue","orange","brown", "yellow", "purple"];
+
+new Chart("myChart", {
+  type: "horizontalBar",
+  data: {
+  labels: xValues,
+  datasets: [{
+    backgroundColor: barColors,
+    data: yValues
+  }]
+},
+  options: {
+    legend: {display: false},
+    title: {
+      display: true,
+      text: "Vaccinations By Race"
+    },
+    scales: {
+      xAxes: [{ticks: {min: 2000, max:2000000}}]
+    }
+  }
+});
+</script>
+
+</body>
+</html>
