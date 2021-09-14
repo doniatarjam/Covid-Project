@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<body>
+
+<canvas id="myChart" style="width:150%;max-width:600px"></canvas>
+
+<script>
+var xValues = ["20","30", "40", "50","60", "70", "80"];  
+var yValues = [338225, 437710, 530448, 531517, 617155, 588091, 550131];
+var barColors = ["red", "green","blue","orange","brown", "yellow", "gold"];
+
+new Chart("myChart", {
+  type: "bar",
+  data: {
+    labels: xValues,
+    datasets: [{
+      backgroundColor: barColors,
+      data: yValues
+    }]
+  },
+  options: {
+    legend: {display: "In Various Age Groups"},
+    title: {
+      display: true,
+      text: "Vaccinations by Age"
+    }
+  }
+});
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
